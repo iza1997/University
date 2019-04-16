@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FAA271DF-0D6E-151F-8354-B1EDE5043471}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Pacman/Assets/Scripts/Pacman.cs">
+    <Files>
+      <File FileName="../Pacman/Assets/Scripts/Duszek.cs" Line="1" Column="1" />
+      <File FileName="../Pacman/Assets/Scripts/Pacman.cs" Line="99" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
