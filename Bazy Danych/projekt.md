@@ -1,9 +1,6 @@
-Zasady przyznawania punktów bonusowych: https://github.com/piotrekiiuwr/bd2019-projekt/blob/master/README.md
-Basic-writing-and-formatting-syntax: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
-
 # Projekt: System Zarządzania Partią Polityczną.
 
-Twoim zadaniem jest zaimplementowanie zdefiniowanego poniżej API.
+Zadaniem jest zaimplementowanie zdefiniowanego poniżej API.
 
 Ze względu na to, że interesuje nas przede wszystkim tematyka baz danych kolejne wywołania funkcji API należy wczytywać ze standardowego wejścia.
 
